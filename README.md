@@ -46,7 +46,7 @@ To represent your tech stack in a visually appealing format with icons, we can u
 #### **Hardware Design**  
 ![Schematic](https://img.shields.io/badge/-Schematic-8B0000?logoColor=white) ![PCBA](https://img.shields.io/badge/-PCBA-FF6F00?logoColor=white) ![Circuit Prototyping](https://img.shields.io/badge/-Circuit%20Prototyping-3CB371?logoColor=white) 
 #### **Networking**  
-![MODBUS](https://img.shields.io/badge/-MODBUS-0055A4?logoColor=white) ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-6A5ACD?logoColor=white) ![Ethernet](https://img.shields.io/badge/-Ethernet-FF0000?logoColor=white) ![MQTT](https://img.shields.io/badge/-MQTT-660066?logoColor=white) ![Power Supply](https://img.shields.io/badge/-Power%20Supply-4CAF50?logoColor=white) ![Soldering](https://img.shields.io/badge/-Soldering-FF6F00?logoColor=white) ![Debugging](https://img.shields.io/badge/-Debugging-FF5722?logoColor=white)  
+![MODBUS](https://img.shields.io/badge/-MODBUS-0055A4?logoColor=white) ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-6A5ACD?logoColor=white) ![Ethernet](https://img.shields.io/badge/-Ethernet-FF0000?logoColor=white) ![MQTT](https://img.shields.io/badge/-MQTT-660066?logoColor=white) ![RS232](https://img.shields.io/badge/-RS232-00008B?logoColor=white) ![RS485](https://img.shields.io/badge/-RS485-6A5ACD?logoColor=white) 
 
 ---
 
