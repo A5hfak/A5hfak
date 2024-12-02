@@ -8,18 +8,14 @@
 I'm an enthusiastic and results-driven Embedded Systems Engineer with over two years of professional experience in IoT systems development, embedded software design, and hardware prototyping. 
 
 ### 💡 **Key Highlights**:  
-- 📜 Published work: *“COVID-19 Automatic Indoor Safety Control through Mask, Temperature and Distance Monitoring”* (ICRAE 2022, Singapore)  
+- 📜 Published work: *“COVID-19 Automatic Indoor Safety Control through Mask, Temperature and Distance Monitoring”* (ICRAE 2022, Singapore)
+
 - 🎯 Proven experience in designing systems that integrate **FreeRTOS**, **MODBUS**, **STM32**, and **Bluetooth protocols**  
 - 🛠️ Proficient in programming with **C**, **C++**, **Python**, and **Rust**, with hands-on expertise in development environments like **Git**, **Linux OS**, and **PlatformIO**  
 
 ---
 
 ## 🛠️ **Tech Stack**  
-To represent your tech stack in a visually appealing format with icons, we can use GitHub-style badges for each skill/tool mentioned. Below is the formatted version of your **Tech Stack section** with markdown code:
-
----
-
-### **Tech Stack**
 
 #### **IDEs**  
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white) ![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-00979D?logo=arduino&logoColor=white) ![PlatformIO](https://img.shields.io/badge/-PlatformIO-EE4C2C?logo=platformio&logoColor=white) ![ESP-IDF](https://img.shields.io/badge/-ESP--IDF-00979D?logo=espressif&logoColor=white)  
