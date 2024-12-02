@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Md Ashfak Haider Nehal!  
 
-🚀 **Embedded Systems Engineer** | 🎓 **M.Sc. Student in Embedded Systems at Tampere University** | 🌍 **Based in Finland**  
+🚀 **Embedded Systems Engineer** | 🎓 **M.Sc. Student in Embedded Systems at Tampere University** | 🌍 **Currently in Finland**  
 
 ---
 
