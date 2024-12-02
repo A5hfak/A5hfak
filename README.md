@@ -89,7 +89,7 @@ For more, check out my portfolio website below.
 ---
 
 ## 📫 **Get in Touch**  
-- 📧 Email: [ashfaknehal@gmail.com]  
+- 📧 Email: ashfaknehal@gmail.com 
 - 💼 LinkedIn: [Ashfak Haider](https://www.linkedin.com/in/ashfak-haider/)  
 - 🌐 Portfolio: [A5hfak](https://a5hfak.github.io/)
 
