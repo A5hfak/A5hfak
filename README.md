@@ -15,15 +15,76 @@ I'm an enthusiastic and results-driven Embedded Systems Engineer with over two y
 ---
 
 ## 🛠️ **Tech Stack**  
+To represent your tech stack in a visually appealing format with icons, we can use GitHub-style badges for each skill/tool mentioned. Below is the formatted version of your **Tech Stack section** with markdown code:
 
-**Languages**:  
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)  
+---
 
-**Tools & Frameworks**:  
-![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-00A4CC?logo=freertos&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-0078D7?logoColor=white)  
+### **Tech Stack**
 
-**Hardware & Platforms**:  
-![STM32](https://img.shields.io/badge/-STM32-03234B?logo=stmicroelectronics&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-000000?logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white)  
+#### **IDEs**  
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)  
+![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-00979D?logo=arduino&logoColor=white)  
+![PlatformIO](https://img.shields.io/badge/-PlatformIO-EE4C2C?logo=platformio&logoColor=white)  
+
+#### **Hardware Design & PCB Layout**  
+![EasyEDA](https://img.shields.io/badge/-EasyEDA-16A085?logoColor=white)  
+![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-FF6D00?logoColor=white)  
+
+#### **Simulation & Modeling**  
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)  
+![Proteus](https://img.shields.io/badge/-Proteus-8C1C13?logoColor=white)  
+![Quartus](https://img.shields.io/badge/-Quartus-1572B6?logoColor=white)  
+![Simulink](https://img.shields.io/badge/-Simulink-0076A8?logo=mathworks&logoColor=white)  
+
+#### **3D Modeling & Layout Design**  
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-EE3124?logo=autodesk&logoColor=white)  
+![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)  
+
+#### **Programming Languages**  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)  
+
+#### **Development Environments**  
+![RTOS](https://img.shields.io/badge/-RTOS-0077C2?logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![Linux OS](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
+![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)  
+
+#### **Microcontrollers & Platforms**  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)  
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?logo=espressif&logoColor=white)  
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white)  
+![Pynq](https://img.shields.io/badge/-Pynq-5E81AC?logoColor=white)  
+![AVR](https://img.shields.io/badge/-AVR-8C1932?logoColor=white)  
+
+#### **Graphic & UI/UX Design**  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white)  
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)  
+
+#### **Web Development**  
+![Frontend](https://img.shields.io/badge/-Frontend-E34F26?logo=html5&logoColor=white)  
+![Backend](https://img.shields.io/badge/-Backend-4B8BBE?logo=python&logoColor=white)  
+
+#### **Productivity Suite**  
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white)  
+
+#### **Testing & Debugging**  
+![Oscilloscope](https://img.shields.io/badge/-Oscilloscopes-4CAF50?logoColor=white)  
+![Multimeters](https://img.shields.io/badge/-Multimeters-FFC107?logoColor=white)  
+![Signal Generators](https://img.shields.io/badge/-Signal%20Generators-9C27B0?logoColor=white)  
+
+#### **Hardware Design**  
+![Schematic](https://img.shields.io/badge/-Schematic-8B0000?logoColor=white)  
+![PCBA](https://img.shields.io/badge/-PCBA-FF6F00?logoColor=white)  
+![Circuit Prototyping](https://img.shields.io/badge/-Circuit%20Prototyping-3CB371?logoColor=white)  
+
+#### **Networking**  
+![MODBUS](https://img.shields.io/badge/-MODBUS-0055A4?logoColor=white)  
+![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-6A5ACD?logoColor=white)  
+![Ethernet](https://img.shields.io/badge/-Ethernet-FF0000?logoColor=white)  
+![MQTT](https://img.shields.io/badge/-MQTT-660066?logoColor=white)  
 
 ---
 
@@ -47,15 +108,15 @@ For more, check out my [GitHub Repositories](https://github.com/yourusername).
 
 ## 🌍 **What I’m Currently Learning**  
 - Advanced **Embedded Linux Drivers**  
-- Development with **Zephyr RTOS**  
+- Development with **FreeRTOS**  
 - Exploring applications of **Machine Learning** in embedded systems  
 
 ---
 
 ## 📫 **Get in Touch**  
-- 📧 Email: [YourEmail@example.com]  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-- 🌐 Portfolio: [Your Website or Portfolio Link]  
+- 📧 Email: [ashfaknehal@gmail.com]  
+- 💼 LinkedIn: [Ashfak Haider](https://www.linkedin.com/in/ashfak-haider/)  
+- 🌐 Portfolio: [A5hfak](https://a5hfak.github.io/)
 
 ---
 
