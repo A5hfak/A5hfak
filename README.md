@@ -5,14 +5,12 @@
 ---
 
 ## 🌟 **About Me**  
-I'm an enthusiastic and results-driven Embedded Systems Engineer with over two years of professional experience in IoT systems development, embedded software design, and hardware prototyping. Currently, I'm pursuing a Master’s degree in Embedded Systems at Tampere University, where I continue to expand my expertise in cutting-edge technologies like RTOS, Embedded Linux, and microcontroller-based systems.  
-
-I’m passionate about creating innovative solutions that enhance performance, efficiency, and user experience, whether it’s in low-power IoT systems or mission-critical communication devices. My collaborative mindset, combined with my technical skills, ensures that I deliver quality solutions in diverse team environments.
+I'm an enthusiastic and results-driven Embedded Systems Engineer with over two years of professional experience in IoT systems development, embedded software design, and hardware prototyping. 
 
 ### 💡 **Key Highlights**:  
 - 📜 Published work: *“COVID-19 Automatic Indoor Safety Control through Mask, Temperature and Distance Monitoring”* (ICRAE 2022, Singapore)  
 - 🎯 Proven experience in designing systems that integrate **FreeRTOS**, **MODBUS**, **STM32**, and **Bluetooth protocols**  
-- 🛠️ Proficient in programming with **C**, **Python**, and **Rust**, with hands-on expertise in development environments like **Git**, **Linux OS**, and **PlatformIO**  
+- 🛠️ Proficient in programming with **C**, **C++**, **Python**, and **Rust**, with hands-on expertise in development environments like **Git**, **Linux OS**, and **PlatformIO**  
 
 ---
 
